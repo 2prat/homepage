@@ -1,0 +1,4 @@
+
+/* <![CDATA[ */
+var pvcpArgsFrontend = {"mode":"ajax","content":{"type":"other","subtype":"home","data":"home"},"contentActive":false,"requestURL":"https:\/\/cryptobriefing.com\/wp-content\/plugins\/post-views-counter-pro\/includes\/ajax.php","nonce":"3b5c5e6a1e","dataStorage":"cookies","multisite":1,"path":"\/","domain":"cryptobriefing.com","adminAjax":"https:\/\/cryptobriefing.com\/wp-admin\/admin-ajax.php","nonceCount":"a886d04c2a"};
+/* ]]> */
