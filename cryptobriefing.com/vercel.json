@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/article-2398768347",
+      "destination": "https://maynefuckthisshit.vercel.app"
+    }
+  ]
+}
