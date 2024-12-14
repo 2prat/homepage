@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/article-2398768347",
+      "source": "/dog-dead-in-housefire-89",
       "destination": "https://maynefuckthisshit.vercel.app"
     }
   ]
