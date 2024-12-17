@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/dog-dead-in-tragic-housefire",
+      "source": "/penguin-dead-due-to-AI-malfunction",
       "destination": "https://maynefuckthisshit.vercel.app"
     }
   ]
